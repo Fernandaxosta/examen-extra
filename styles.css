@@ -1,0 +1,15 @@
+.gradient-background {
+    background: rgba(209, 139, 209, 0.952);
+    background-size: 180% 180%;
+  }
+  
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+  
+  .profile-img {
+    height: 500px;
+    border-radius: 0%;
+  }
